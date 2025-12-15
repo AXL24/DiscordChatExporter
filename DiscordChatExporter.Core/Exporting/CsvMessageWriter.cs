@@ -12,7 +12,7 @@ namespace DiscordChatExporter.Core.Exporting;
 internal partial class CsvMessageWriter(Stream stream, ExportContext context)
     : MessageWriter(stream, context)
 {
-    private readonly TextWriter _writer = new StreamWriter(stream);
+    private readonly TextWriter _writer = new StreamWriter(stream, Encoding.UTF8);
 
     private async ValueTask<string> FormatMarkdownAsync(
         string markdown,
