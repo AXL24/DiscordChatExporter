@@ -1,0 +1,273 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DiscordChatExporter.Cli/999.9.9-dev": {
+        "dependencies": {
+          "CSharpier.MsBuild": "1.2.1",
+          "CliFx": "2.3.6",
+          "DiscordChatExporter.Core": "999.9.9-dev",
+          "Gress": "2.1.1",
+          "Spectre.Console": "0.54.0"
+        },
+        "runtime": {
+          "DiscordChatExporter.Cli.dll": {}
+        }
+      },
+      "AdvancedStringBuilder/0.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/AdvancedStringBuilder.dll": {
+            "assemblyVersion": "0.1.1.0",
+            "fileVersion": "0.1.1.0"
+          }
+        }
+      },
+      "AngleSharp/1.4.0": {
+        "runtime": {
+          "lib/net10.0/AngleSharp.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          }
+        }
+      },
+      "AsyncKeyedLock/7.1.8": {
+        "runtime": {
+          "lib/net9.0/AsyncKeyedLock.dll": {
+            "assemblyVersion": "7.1.8.0",
+            "fileVersion": "7.1.8.0"
+          }
+        }
+      },
+      "CliFx/2.3.6": {
+        "runtime": {
+          "lib/net8.0/CliFx.dll": {
+            "assemblyVersion": "2.3.6.0",
+            "fileVersion": "2.3.6.0"
+          }
+        }
+      },
+      "CSharpier.MsBuild/1.2.1": {
+        "runtime": {
+          "lib/net10.0/CSharpier.MsBuild.dll": {
+            "assemblyVersion": "1.2.1.0",
+            "fileVersion": "1.2.1.0"
+          }
+        }
+      },
+      "Gress/2.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/Gress.dll": {
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.0"
+          }
+        }
+      },
+      "JsonExtensions/1.2.0": {
+        "runtime": {
+          "lib/net5.0/JsonExtensions.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "Polly/8.6.5": {
+        "dependencies": {
+          "Polly.Core": "8.6.5"
+        },
+        "runtime": {
+          "lib/net6.0/Polly.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.6.5.5194"
+          }
+        }
+      },
+      "Polly.Core/8.6.5": {
+        "runtime": {
+          "lib/net8.0/Polly.Core.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.6.5.5194"
+          }
+        }
+      },
+      "RazorBlade/0.11.0": {
+        "runtime": {
+          "lib/net8.0/RazorBlade.dll": {
+            "assemblyVersion": "0.11.0.0",
+            "fileVersion": "0.11.0.0"
+          }
+        }
+      },
+      "Spectre.Console/0.54.0": {
+        "runtime": {
+          "lib/net10.0/Spectre.Console.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.54.0.0"
+          }
+        }
+      },
+      "Superpower/3.1.0": {
+        "runtime": {
+          "lib/net8.0/Superpower.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      },
+      "WebMarkupMin.Core/2.20.0": {
+        "dependencies": {
+          "AdvancedStringBuilder": "0.1.1"
+        },
+        "runtime": {
+          "lib/net9.0/WebMarkupMin.Core.dll": {
+            "assemblyVersion": "2.20.0.0",
+            "fileVersion": "2.20.0.0"
+          }
+        }
+      },
+      "YoutubeExplode/6.5.6": {
+        "dependencies": {
+          "AngleSharp": "1.4.0"
+        },
+        "runtime": {
+          "lib/net9.0/YoutubeExplode.dll": {
+            "assemblyVersion": "6.5.6.0",
+            "fileVersion": "6.5.6.0"
+          }
+        }
+      },
+      "DiscordChatExporter.Core/999.9.9-dev": {
+        "dependencies": {
+          "AngleSharp": "1.4.0",
+          "AsyncKeyedLock": "7.1.8",
+          "Gress": "2.1.1",
+          "JsonExtensions": "1.2.0",
+          "Polly": "8.6.5",
+          "RazorBlade": "0.11.0",
+          "Superpower": "3.1.0",
+          "WebMarkupMin.Core": "2.20.0",
+          "YoutubeExplode": "6.5.6"
+        },
+        "runtime": {
+          "DiscordChatExporter.Core.dll": {
+            "assemblyVersion": "999.9.9.0",
+            "fileVersion": "999.9.9.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DiscordChatExporter.Cli/999.9.9-dev": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdvancedStringBuilder/0.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-32IrlspOA59ewotQ4tlKP27QhKxMKGB7oncqlwVHn/hAz+j/r3HvLr6/W9ni9Mnyktlcg6kt7QZS8rEgur1+4Q==",
+      "path": "advancedstringbuilder/0.1.1",
+      "hashPath": "advancedstringbuilder.0.1.1.nupkg.sha512"
+    },
+    "AngleSharp/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6ph8mpaQx0KL0COYRt0kI8MB9gSp1PtKijKMhJU//+aVFgKAJLKDesG/+26JSaVCOrHNgPf12wpfoyRcMYOeXg==",
+      "path": "anglesharp/1.4.0",
+      "hashPath": "anglesharp.1.4.0.nupkg.sha512"
+    },
+    "AsyncKeyedLock/7.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LhDLwna+oO0lDA/xRK2JMeZ6XN4AN6VnZXaTC+pO95sd+uJUFqfdK1H5hS09upX4IrpErVSKW+uKgxctcnYe7w==",
+      "path": "asynckeyedlock/7.1.8",
+      "hashPath": "asynckeyedlock.7.1.8.nupkg.sha512"
+    },
+    "CliFx/2.3.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7Q6rbhCxpEoAtPrcBm4sJ4QlDeY+0Dp4in0oXAxrJJ/4L1LV/YkDQSqfUMwK56GbnpUo4fIrpOxoxM+ta44B1g==",
+      "path": "clifx/2.3.6",
+      "hashPath": "clifx.2.3.6.nupkg.sha512"
+    },
+    "CSharpier.MsBuild/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HolJfE0CR81eBFbYluoPxj3Kj6eQAeosVQ8QThw2NlTer1/2o8D6IxFhmRvZR8MkpgqAuvbO7WL90oudTYLGOw==",
+      "path": "csharpier.msbuild/1.2.1",
+      "hashPath": "csharpier.msbuild.1.2.1.nupkg.sha512"
+    },
+    "Gress/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n/YK1XYM2xUhoPFRRJpoTk5qtWBwTkSZlWtxqb4JNX3pDfwoMiu6G+zs65y8Z8SfIUxhOhU5yO/v58WkZynECg==",
+      "path": "gress/2.1.1",
+      "hashPath": "gress.2.1.1.nupkg.sha512"
+    },
+    "JsonExtensions/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ujtrK6m5BQVQLEteLfl54upN7Z59c1ZqEKmU3OlYriqnV74dIgIlNM2vkcgn2AuZEItQDNORD/2H1biI/asOdg==",
+      "path": "jsonextensions/1.2.0",
+      "hashPath": "jsonextensions.1.2.0.nupkg.sha512"
+    },
+    "Polly/8.6.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VqtW2ZE/ALvQMAH1cQY3qZ2cF2OXa3oe/HKMdOv6Q02HCoEW0rsFNfcBONXlHBe1TnjWW1vdRxBEkPeq0/2FHA==",
+      "path": "polly/8.6.5",
+      "hashPath": "polly.8.6.5.nupkg.sha512"
+    },
+    "Polly.Core/8.6.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t+sUVrIwvo7UmsgHGgOG9F0GDZSRIm47u2ylH17Gvcv1q5hNEwgD5GoBlFyc0kh/pebmPyrAgvGsR/65ZBaXlg==",
+      "path": "polly.core/8.6.5",
+      "hashPath": "polly.core.8.6.5.nupkg.sha512"
+    },
+    "RazorBlade/0.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B4FMLkQ8oISZWweegImGtFB8v6FjcMSobCyVum2l5ALxqZASDpcvd9Art3GaIs65WCfQyuqCVhlYF2QJDOzlTg==",
+      "path": "razorblade/0.11.0",
+      "hashPath": "razorblade.0.11.0.nupkg.sha512"
+    },
+    "Spectre.Console/0.54.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-StDXCFayfy0yB1xzUHT2tgEpV1/HFTiS4JgsAQS49EYTfMixSwwucaQs/bIOCwXjWwIQTMuxjUIxcB5XsJkFJA==",
+      "path": "spectre.console/0.54.0",
+      "hashPath": "spectre.console.0.54.0.nupkg.sha512"
+    },
+    "Superpower/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WAdwfNw9hQG3GCA3/SExU7iViwGd4PSjoA0fNlZChD4+Ya4P9NTfzFPeS0z+P9OUNqghivAeOnclsdczUCqoPQ==",
+      "path": "superpower/3.1.0",
+      "hashPath": "superpower.3.1.0.nupkg.sha512"
+    },
+    "WebMarkupMin.Core/2.20.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IKzlEMAStrVjhBK9V+DMfkmB8SLhMNgh+H2bChFaMJ9F/+b2t59sMGR8C+DQuvxvr4rMlmpFeW0ysbnTxxYgfw==",
+      "path": "webmarkupmin.core/2.20.0",
+      "hashPath": "webmarkupmin.core.2.20.0.nupkg.sha512"
+    },
+    "YoutubeExplode/6.5.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W0iR/zLll4UwgsfPvgGkNtn+f01ut8Mm3lDrU2V3iujRmQSnelKUXWsFvZYojw/gPD+pvTS4/MMYNkDvwocbvg==",
+      "path": "youtubeexplode/6.5.6",
+      "hashPath": "youtubeexplode.6.5.6.nupkg.sha512"
+    },
+    "DiscordChatExporter.Core/999.9.9-dev": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

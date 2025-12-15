@@ -5,7 +5,7 @@
 *.user
 
 # Build results
-bin/
+# bin/
 obj/
 
 # Test results
