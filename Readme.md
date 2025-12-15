@@ -18,6 +18,8 @@
 
 <p align="center">
     <img src="favicon.png" alt="Icon" />
+   
+     <img src="https://i.ibb.co/k6rTZfYY/Screenshot-2025-12-15-105131.png" alt="Icon" />
 </p>
 
 **DiscordChatExporter** is an application that can be used to export message history from any [Discord](https://discord.com) channel to a file.
